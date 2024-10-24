@@ -7,9 +7,13 @@ The cache functionality is simulated, and the final cache content is outputted, 
 
 ## File structure
 src: Contains the initial framework source code and Makefile.
+
 trace: Contains all the trace files required for the experiment, i.e., read/write memory access streams.
+
 validation: Contains all the files for simulation result verification.
+
 debug: Contains all the simulator debugging files.
+
 Proj1-1_Specification: The experiment guide.
 
 ## Operating Environment
